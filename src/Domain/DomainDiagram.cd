@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Domain.Category">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAEAAAAAAQAAAAAAEAAIAAAAAAAAgA=</HashCode>
+      <FileName>Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.CreativeWork">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAEAEgAAAAAAAAAAAEEABIAAEAAAAAAA=</HashCode>
+      <FileName>CreativeWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Invitation" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGEAAAAAAAAAQAAEAAEAAAgAgAAAAAAAMCAAAAAACBE=</HashCode>
+      <FileName>Invitation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.MailingList">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAIAAEAAAEAAAAAAAEAAAAAAAAIAAIAAAAAAA=</HashCode>
+      <FileName>MailingList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.MailingListEntry" Collapsed="true">
+    <Position X="9.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAEAAACCAAEAEAAAAAAAAAAAAAAAAIAAAAAAAIAg=</HashCode>
+      <FileName>MailingListEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Material" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAEAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Person">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAACAAAAgIAAAAAAAAAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Relation">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Domain.Relation.VerbType">
+        <TypeIdentifier>
+          <NewMemberFileName>Relation.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAkAIAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Relation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Tag">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAQAAAAAEAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Tag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Domain.Thing">
+    <Position X="9.5" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAICAAAAAAAEAAAECCAABAAABAgAAAEAIAAAAAAAAAA=</HashCode>
+      <FileName>Thing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

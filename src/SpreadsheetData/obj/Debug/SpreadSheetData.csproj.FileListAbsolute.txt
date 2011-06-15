@@ -1,0 +1,17 @@
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\CodeContracts\MueVueData.Contracts.dll
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\CodeContracts\MueVueData.Contracts.pdb
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\MueVueData.dll
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\MueVueData.pdb
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\MueVueData.dll.CodeAnalysisLog.xml
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\MueVueData.dll.lastcodeanalysissucceeded
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\Google.GData.Client.dll
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\Google.GData.Documents.dll
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\Google.GData.Extensions.dll
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\Google.GData.Spreadsheets.dll
+D:\temp\MueVueDomainModel\MueVueData\bin\Debug\Google.GData.AccessControl.dll
+D:\temp\MueVueDomainModel\MueVueData\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\MueVueDomainModel\MueVueData\obj\Debug\Decl\MueVueData.dll
+D:\temp\MueVueDomainModel\MueVueData\obj\Debug\Decl\MueVueData.pdb
+D:\temp\MueVueDomainModel\MueVueData\obj\Debug\SpreadSheetDataccrefgen.rsp
+D:\temp\MueVueDomainModel\MueVueData\obj\Debug\MueVueData.dll
+D:\temp\MueVueDomainModel\MueVueData\obj\Debug\MueVueData.pdb

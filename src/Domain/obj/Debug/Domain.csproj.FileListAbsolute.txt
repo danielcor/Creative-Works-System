@@ -1,0 +1,175 @@
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Domain.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Domain.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Commands.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Events.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Commands.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Events.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\obj\Debug\Domain.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\obj\Debug\Domain.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\EventStore.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\EventStore.Serialization.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\EventStore.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\MueVueData.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Google.GData.Client.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\MueVueData.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\CodeContracts\Domain.Contracts.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\CodeContracts\Domain.Contracts.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Domain.dll.CodeAnalysisLog.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Domain.dll.lastcodeanalysissucceeded
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\obj\Debug\Decl\Domain.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\obj\Debug\Decl\Domain.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\obj\Debug\Domain.rewritten
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\obj\Debug\CodeContractAnalysisRun.log
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Infrastructure.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\NLog.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Glimpse.Net.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Castle.Core.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\NLog.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Glimpse.Net.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Castle.Core.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Castle.Core.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Newtonsoft.Json.Net35.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\bin\Debug\Newtonsoft.Json.Net35.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVueProjects\MueVue1\Domain\obj\Debug\Domainccrefgen.rsp
+K:\MueVue1\Domain\bin\Debug\CodeContracts\Domain.Contracts.dll
+K:\MueVue1\Domain\bin\Debug\CodeContracts\Domain.Contracts.pdb
+K:\MueVue1\Domain\bin\Debug\Domain.dll
+K:\MueVue1\Domain\bin\Debug\Domain.pdb
+K:\MueVue1\Domain\bin\Debug\Domain.dll.CodeAnalysisLog.xml
+K:\MueVue1\Domain\bin\Debug\Domain.dll.lastcodeanalysissucceeded
+K:\MueVue1\Domain\bin\Debug\Commands.dll
+K:\MueVue1\Domain\bin\Debug\Events.dll
+K:\MueVue1\Domain\bin\Debug\MueVueData.dll
+K:\MueVue1\Domain\bin\Debug\EventStore.dll
+K:\MueVue1\Domain\bin\Debug\Infrastructure.dll
+K:\MueVue1\Domain\bin\Debug\EventStore.Serialization.Json.dll
+K:\MueVue1\Domain\bin\Debug\Google.GData.Client.dll
+K:\MueVue1\Domain\bin\Debug\Google.GData.Spreadsheets.dll
+K:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+K:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+K:\MueVue1\Domain\bin\Debug\NLog.dll
+K:\MueVue1\Domain\bin\Debug\AzureContrib.WindowsAzure.dll
+K:\MueVue1\Domain\bin\Debug\Google.GData.Extensions.dll
+K:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.CloudDrive.dll
+K:\MueVue1\Domain\bin\Debug\Commands.pdb
+K:\MueVue1\Domain\bin\Debug\Events.pdb
+K:\MueVue1\Domain\bin\Debug\MueVueData.pdb
+K:\MueVue1\Domain\bin\Debug\Infrastructure.pdb
+K:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+K:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+K:\MueVue1\Domain\bin\Debug\NLog.xml
+K:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
+K:\MueVue1\Domain\obj\Debug\ResolveAssemblyReference.cache
+K:\MueVue1\Domain\obj\Debug\Decl\Domain.dll
+K:\MueVue1\Domain\obj\Debug\Decl\Domain.pdb
+K:\MueVue1\Domain\obj\Debug\Domainccrefgen.rsp
+K:\MueVue1\Domain\obj\Debug\Domain.dll
+K:\MueVue1\Domain\obj\Debug\Domain.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\CodeContracts\Domain.Contracts.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\CodeContracts\Domain.Contracts.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Domain.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Domain.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Domain.dll.CodeAnalysisLog.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Domain.dll.lastcodeanalysissucceeded
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Commands.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Events.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\MueVueData.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\EventStore.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Infrastructure.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\EventStore.Serialization.Json.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Google.GData.Client.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Google.GData.Spreadsheets.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\NLog.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\AzureContrib.WindowsAzure.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Google.GData.Extensions.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.CloudDrive.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Commands.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Events.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\MueVueData.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Infrastructure.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\NLog.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\obj\Debug\Decl\Domain.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\obj\Debug\Decl\Domain.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\obj\Debug\Domainccrefgen.rsp
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\obj\Debug\Domain.rewritten
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\obj\Debug\Domain.dll
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\obj\Debug\Domain.pdb
+C:\Users\Daniel\Documents\Visual Studio 2010\Projects\MueVue1\Domain\obj\Debug\CodeContractAnalysisRun.log
+C:\MueVue1\Domain\bin\Debug\CodeContracts\Domain.Contracts.dll
+C:\MueVue1\Domain\bin\Debug\CodeContracts\Domain.Contracts.pdb
+C:\MueVue1\Domain\bin\Debug\Domain.dll
+C:\MueVue1\Domain\bin\Debug\Domain.pdb
+C:\MueVue1\Domain\bin\Debug\Domain.dll.CodeAnalysisLog.xml
+C:\MueVue1\Domain\bin\Debug\Domain.dll.lastcodeanalysissucceeded
+C:\MueVue1\Domain\bin\Debug\Commands.dll
+C:\MueVue1\Domain\bin\Debug\Events.dll
+C:\MueVue1\Domain\bin\Debug\MueVueData.dll
+C:\MueVue1\Domain\bin\Debug\EventStore.dll
+C:\MueVue1\Domain\bin\Debug\Infrastructure.dll
+C:\MueVue1\Domain\bin\Debug\EventStore.Serialization.Json.dll
+C:\MueVue1\Domain\bin\Debug\Google.GData.Client.dll
+C:\MueVue1\Domain\bin\Debug\Google.GData.Spreadsheets.dll
+C:\MueVue1\Domain\bin\Debug\AzureContrib.WindowsAzure.dll
+C:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.StorageClient.dll
+C:\MueVue1\Domain\bin\Debug\NLog.dll
+C:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.Diagnostics.dll
+C:\MueVue1\Domain\bin\Debug\Google.GData.Extensions.dll
+C:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.CloudDrive.dll
+C:\MueVue1\Domain\bin\Debug\Commands.pdb
+C:\MueVue1\Domain\bin\Debug\Events.pdb
+C:\MueVue1\Domain\bin\Debug\MueVueData.pdb
+C:\MueVue1\Domain\bin\Debug\EventStore.pdb
+C:\MueVue1\Domain\bin\Debug\EventStore.xml
+C:\MueVue1\Domain\bin\Debug\Infrastructure.pdb
+C:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.StorageClient.xml
+C:\MueVue1\Domain\bin\Debug\NLog.xml
+C:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.Diagnostics.xml
+C:\MueVue1\Domain\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
+C:\MueVue1\Domain\obj\Debug\ResolveAssemblyReference.cache
+C:\MueVue1\Domain\obj\Debug\Decl\Domain.dll
+C:\MueVue1\Domain\obj\Debug\Decl\Domain.pdb
+C:\MueVue1\Domain\obj\Debug\Domainccrefgen.rsp
+C:\MueVue1\Domain\obj\Debug\Domain.rewritten
+C:\MueVue1\Domain\obj\Debug\Domain.dll
+C:\MueVue1\Domain\obj\Debug\Domain.pdb
+C:\MueVue1\Domain\obj\Debug\CodeContractAnalysisRun.log
+K:\MueVue1\Domain\bin\Debug\EventStore.pdb
+K:\MueVue1\Domain\bin\Debug\EventStore.xml
+D:\temp\Domain\bin\Debug\CodeContracts\Domain.Contracts.dll
+D:\temp\Domain\bin\Debug\CodeContracts\Domain.Contracts.pdb
+D:\temp\Domain\bin\Debug\Domain.dll
+D:\temp\Domain\bin\Debug\Domain.pdb
+D:\temp\Domain\bin\Debug\Domain.dll.CodeAnalysisLog.xml
+D:\temp\Domain\bin\Debug\Domain.dll.lastcodeanalysissucceeded
+D:\temp\Domain\bin\Debug\Commands.dll
+D:\temp\Domain\bin\Debug\Events.dll
+D:\temp\Domain\bin\Debug\MueVueData.dll
+D:\temp\Domain\bin\Debug\EventStore.dll
+D:\temp\Domain\bin\Debug\EventStore.Serialization.Json.dll
+D:\temp\Domain\bin\Debug\Google.GData.Client.dll
+D:\temp\Domain\bin\Debug\Google.GData.Spreadsheets.dll
+D:\temp\Domain\bin\Debug\Google.GData.Extensions.dll
+D:\temp\Domain\bin\Debug\Commands.pdb
+D:\temp\Domain\bin\Debug\Events.pdb
+D:\temp\Domain\bin\Debug\MueVueData.pdb
+D:\temp\Domain\obj\Debug\ResolveAssemblyReference.cache
+D:\temp\Domain\obj\Debug\Decl\Domain.dll
+D:\temp\Domain\obj\Debug\Decl\Domain.pdb
+D:\temp\Domain\obj\Debug\Domainccrefgen.rsp
+D:\temp\Domain\obj\Debug\Domain.dll
+D:\temp\Domain\obj\Debug\Domain.pdb
