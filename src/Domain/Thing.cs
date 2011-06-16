@@ -101,7 +101,7 @@ namespace Domain
 
 		protected Thing RelatedObject(IEnumerable<Relation.VerbType> verbs)
 		{
-			if (Relations == null)
+			if (Relations == null || verbs == null)
 				return default(Thing);
 
 			var relation = Relations.FirstOrDefault(r => verbs.Any(v => v == r.Verb) && r.Subject == this);
@@ -117,7 +117,7 @@ namespace Domain
 
 		protected IEnumerable<Thing> RelatedObjects(IEnumerable<Relation.VerbType> verbs)
 		{
-			return Relations == null
+			return Relations == null || verbs == null
 				? new List<Thing>()
 				: Relations.Where(r => verbs.Any(v => v == r.Verb) && r.Subject == this).Select(r => r.Object);
 		}
@@ -133,7 +133,7 @@ namespace Domain
 
 		protected T RelatedObject<T>(IEnumerable<Relation.VerbType> verbs) where T : Thing
 		{
-			if (Relations == null)
+			if (Relations == null || verbs == null)
 				return default(T);
 
 			return Relations.Where(r => verbs.Any(v => v == r.Verb) && r.Subject == this && r.Object is T)

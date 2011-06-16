@@ -17,7 +17,7 @@ namespace CommandHandlers
 
 	public class InvitationHandler
 	{
-		private static NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
+		private static readonly NLog.Logger Logger = NLog.LogManager.GetCurrentClassLogger();
 
 		private Database Database { get; set; }
 
@@ -32,7 +32,7 @@ namespace CommandHandlers
 
 			var eventGuid = Guid.NewGuid();
 
-			logger.Debug("Received RequestMailing Commmand: {0}", command);
+			Logger.Debug("Received RequestMailing Commmand: {0}", command);
 
 			try
 			{
@@ -62,7 +62,7 @@ namespace CommandHandlers
 			}
 			catch (Exception ex)
 			{
-				logger.Error("Saving invitationRequest to event store failed: ", ex);
+				Logger.Error("Saving invitationRequest to event store failed: ", ex);
 			}
 
 
@@ -80,21 +80,21 @@ namespace CommandHandlers
 
 			try
 			{
-				logger.Debug("Calling SmtpMail.send()");
+				Logger.Debug("Calling SmtpMail.send()");
 				//SmtpMail.Send("<xxx>", "Received Invitation Request", command.ToString(), command.Email,
 				//    null, null, true, eventGuid, null);
 				mailSuccess = true;  
 			}
 			catch (Exception ex)
 			{
-				logger.ErrorException("Calling SmtpMail.send() failed", ex);
-				logger.Error("Failed to send email", ex);
+				Logger.ErrorException("Calling SmtpMail.send() failed", ex);
+				Logger.Error("Failed to send email", ex);
 			}
 
 			var success = inviteSuccess || mailSuccess;
 
-			logger.Info("RequestInvitation - eventstore: {0}, mailing: {1}, mailingList: {2}", inviteSuccess, mailSuccess, mailingListSuccess);
-			logger.Info("Request: {0}", command);
+			Logger.Info("RequestInvitation - eventstore: {0}, mailing: {1}, mailingList: {2}", inviteSuccess, mailSuccess, mailingListSuccess);
+			Logger.Info("Request: {0}", command);
 			return success;
 		}
 	}
