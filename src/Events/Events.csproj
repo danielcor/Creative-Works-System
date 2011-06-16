@@ -60,16 +60,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EventStore">
-      <HintPath>..\Libraries\EventStore\EventStore.dll</HintPath>
+      <HintPath>..\Library\EventStore\EventStore.dll</HintPath>
     </Reference>
     <Reference Include="EventStore.Serialization">
-      <HintPath>..\Libraries\EventStore\EventStore.Serialization.dll</HintPath>
+      <HintPath>..\Library\EventStore\EventStore.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="EventStore.Serialization.Json">
-      <HintPath>..\Libraries\EventStore\EventStore.Serialization.Json.dll</HintPath>
+      <HintPath>..\Library\EventStore\EventStore.Serialization.Json.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\Libraries\EventStore\Json.NET\.NET 4.0\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\Library\EventStore\Json.NET\.NET 4.0\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
