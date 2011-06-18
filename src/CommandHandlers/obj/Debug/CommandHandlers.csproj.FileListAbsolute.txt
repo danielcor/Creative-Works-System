@@ -94,7 +94,6 @@ D:\temp\CommandHandlers\bin\Debug\Microsoft.WindowsAzure.CloudDrive.xml
 D:\temp\CommandHandlers\obj\Debug\ResolveAssemblyReference.cache
 D:\temp\CommandHandlers\obj\Debug\CommandHandlers.dll
 D:\temp\CommandHandlers\obj\Debug\CommandHandlers.pdb
-D:\Development\Projects\Creative-works-System\src\CommandHandlers\obj\Debug\ResolveAssemblyReference.cache
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\CommandHandlers.dll
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\CommandHandlers.pdb
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\Commands.dll
@@ -111,11 +110,10 @@ D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\Goog
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\Commands.pdb
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\Domain.pdb
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\Events.pdb
-D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\NLog.pdb
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\NLog.xml
-D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\NLog.Extended.pdb
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\NLog.Extended.xml
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\System.Web.Helpers.xml
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\bin\Debug\MueVueData.pdb
+D:\Development\Projects\Creative-works-System\src\CommandHandlers\obj\Debug\ResolveAssemblyReference.cache
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\obj\Debug\CommandHandlers.dll
 D:\Development\Projects\Creative-works-System\src\CommandHandlers\obj\Debug\CommandHandlers.pdb

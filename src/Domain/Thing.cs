@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.Linq;
 using Events;
 
 namespace Domain
 {
-	public abstract class Thing
+	public abstract class Thing : IEquatable<Thing>
 	{
 		protected Thing()  {}
 
@@ -78,14 +77,14 @@ namespace Domain
 		protected IEnumerable<T> RelatedSubjects<T>(Relation.VerbType verb) where T: Thing
 		{
 			return Relations == null
-				? default(IEnumerable<T>)
-				: Relations.Where(r => r.Verb == verb && r.Object == this && r.Subject is T).Select(r => r.Object as T);
+				? new List<T>()
+			    : Relations.Where(r => r.Verb == verb && r.Object == this && r.Subject is T).Select(r => r.Object as T);
 		}
 
 		protected IEnumerable<T> RelatedSubjects<T>(IEnumerable<Relation.VerbType> verbs) where T : Thing
 		{
 			return Relations == null
-				? default(IEnumerable<T>)
+				? new List<T>()
 				: Relations.Where(r => verbs.Any(v => v == r.Verb) && r.Object == this && r.Subject is T).Select(r => r.Object as T);
 		}
 
@@ -155,28 +154,84 @@ namespace Domain
 				: Relations.Where(r => verbs.Any(v => v == r.Verb) && r.Subject == this && r.Object is T).Select(r => r.Object as T);
 		}
 
+		// This function should really only be caled if the type of Other doesn't equal this
+		// Derived classes should reimplement
+		public virtual bool Equals(Thing other)
+		{
+			if (other == this) return true;
+			if (GetType() != other.GetType())
+				return false;
+ 
+			return (Id == other.Id);
+		}
+
 		public override abstract String ToString();
 		public abstract void OnReceiving(EventBase e);
 
 		protected void AddSubject(Relation.VerbType verb, Thing subject)
 		{
 			if (Relations == null) Relations = new List<Relation>();
-
+			var relation = new Relation(subject, verb, this);
+			Relations.Add(relation);
+			subject.Add(relation);
 		}
 
-		protected internal void Add(Relation relation)
+		// IEquatable & IEquatableComparer implemented for Relation should make .Contains work.
+		private bool Add(Relation relation)
 		{
+			if (Relations == null) Relations = new List<Relation>();
 
+			// TODO: Should this return false?  or should it throw an exception.
+			// To some extent this is a failure, and shouldn't happen
+			if (Relations.Contains(relation)) return false;
+			Relations.Add(relation);
+			return true;
 		}
 
 		protected void AddObject(Relation.VerbType verb, Thing obj)
 		{
+			if (Relations == null) Relations = new List<Relation>();
+			var relation = new Relation(this, verb, obj);
 
+			// TODO: what do we do if either add fails?
+			// TODO: handle multi-threading
+			// This will be wrapped in a transaction, and generally we will need to roll it back.
+			Relations.Add(relation);
+			obj.Add(relation);
 		}
 
-		internal void Remove(Relation relation)
+		private void Remove(Relation relation)
 		{
+			if (Relations == null) return;
+			if (!Relations.Contains(relation)) return;
 
+			// TODO: we have to actually remove it from the database, not just remove all references
+			Relations.Remove(relation);
+		}
+
+		protected void RemoveSubject(Relation.VerbType verb, Thing subject)
+		{
+			if (Relations == null) return;
+			var relation = FindRelation(subject, verb, this);
+
+			if (relation == null) return;
+			Remove(relation);
+		}
+
+		protected void RemoveObject(Relation.VerbType verb, Thing obj)
+		{
+			if (Relations == null) return;
+			var relation = FindRelation(this, verb, obj);
+
+			if (relation == null) return;
+			Remove(relation);
+		}
+
+		private Relation FindRelation(Thing subject, Relation.VerbType verb, Thing obj)
+		{
+			return Relations == null
+				? null
+				: Relations.FirstOrDefault(r => r.Verb == verb && r.Subject == subject && r.Object == obj);
 		}
 	}
 }

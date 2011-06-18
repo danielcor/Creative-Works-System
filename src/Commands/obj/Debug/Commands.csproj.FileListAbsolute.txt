@@ -79,7 +79,6 @@ D:\temp\Commands\obj\Debug\Decl\Commands.pdb
 D:\temp\Commands\obj\Debug\Commandsccrefgen.rsp
 D:\temp\Commands\obj\Debug\Commands.dll
 D:\temp\Commands\obj\Debug\Commands.pdb
-D:\Development\Projects\Creative-works-System\src\Commands\obj\Debug\ResolveAssemblyReference.cache
 D:\Development\Projects\Creative-works-System\src\Commands\bin\Debug\CodeContracts\Commands.Contracts.dll
 D:\Development\Projects\Creative-works-System\src\Commands\bin\Debug\CodeContracts\Commands.Contracts.pdb
 D:\Development\Projects\Creative-works-System\src\Commands\bin\Debug\Commands.dll
@@ -91,6 +90,7 @@ D:\Development\Projects\Creative-works-System\src\Commands\bin\Debug\Google.GDat
 D:\Development\Projects\Creative-works-System\src\Commands\bin\Debug\Google.GData.Spreadsheets.dll
 D:\Development\Projects\Creative-works-System\src\Commands\bin\Debug\Google.GData.Extensions.dll
 D:\Development\Projects\Creative-works-System\src\Commands\bin\Debug\MueVueData.pdb
+D:\Development\Projects\Creative-works-System\src\Commands\obj\Debug\ResolveAssemblyReference.cache
 D:\Development\Projects\Creative-works-System\src\Commands\obj\Debug\Decl\Commands.dll
 D:\Development\Projects\Creative-works-System\src\Commands\obj\Debug\Decl\Commands.pdb
 D:\Development\Projects\Creative-works-System\src\Commands\obj\Debug\Commandsccrefgen.rsp

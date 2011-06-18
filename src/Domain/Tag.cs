@@ -4,7 +4,6 @@ using Events;
 
 namespace Domain
 {
-
 	public class Tag : Thing
 	{
 		public string Name { get; set; }

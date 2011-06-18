@@ -1,7 +1,3 @@
-D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\ResolveAssemblyReference.cache
-D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\Events.Resources.resources
-D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\GenerateResource.read.1.tlog
-D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\GenerateResource.write.1.tlog
 D:\Development\Projects\Creative-works-System\src\Events\bin\Debug\CodeContracts\Events.Contracts.dll
 D:\Development\Projects\Creative-works-System\src\Events\bin\Debug\CodeContracts\Events.Contracts.pdb
 D:\Development\Projects\Creative-works-System\src\Events\bin\Debug\Events.dll
@@ -20,6 +16,10 @@ D:\Development\Projects\Creative-works-System\src\Events\bin\Debug\MueVueData.pd
 D:\Development\Projects\Creative-works-System\src\Events\bin\Debug\EventStore.pdb
 D:\Development\Projects\Creative-works-System\src\Events\bin\Debug\EventStore.xml
 D:\Development\Projects\Creative-works-System\src\Events\bin\Debug\EventStore.Serialization.pdb
+D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\Events.Resources.resources
+D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\GenerateResource.read.1.tlog
+D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\GenerateResource.write.1.tlog
 D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\Decl\Events.dll
 D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\Decl\Events.pdb
 D:\Development\Projects\Creative-works-System\src\Events\obj\Debug\Eventsccrefgen.rsp

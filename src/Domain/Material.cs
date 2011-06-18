@@ -10,7 +10,8 @@ namespace Domain
 	public class Material : Thing
 	{
 		public string Name { get; set; }
-		public IEnumerable<Category> Categories { get; internal set; }
+		public IEnumerable<Category> Categories { get { return base.RelatedSubjects<Category>(Relation.VerbType.OverlapsMaterial); } }
+		public IEnumerable<CreativeWork> CreativeWorks { get { return base.RelatedSubjects<CreativeWork>(Relation.VerbType.MadeOf); } }
 
 		public override string ToString()
 		{

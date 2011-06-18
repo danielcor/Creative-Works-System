@@ -61,8 +61,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -70,6 +70,8 @@
   <ItemGroup>
     <Compile Include="Category.cs" />
     <Compile Include="Material.cs" />
+    <Compile Include="MueVue.cs" />
+    <Compile Include="Image.cs" />
     <Compile Include="Thing.cs" />
     <Compile Include="CreativeWork.cs" />
     <Compile Include="MailingList.cs" />
